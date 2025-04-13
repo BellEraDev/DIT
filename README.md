@@ -2,7 +2,7 @@
 
 ### 🧩 Core Units (6)
 
-#### 1. BSBXTW401 – Lead and Facilitate a Team
+#### 1. BSBXTW401 – Lead and Facilitate a Team 
 - Plan team goals, roles, and communication
 - Coach and mentor members
 - Monitor and improve team performance
@@ -36,7 +36,7 @@
 
 ### 🧩 Elective Units (14)
 
-#### 1. ICTICT523 – Gather Data to Identify Business Requirements
+#### 1. ICTICT523 – Gather Data to Identify Business Requirements (https://drive.google.com/drive/folders/171YMFAGL-NPS2TpMyhFKT_ydO6sEGfyP?usp=sharing)
 - Collect and analyze business data
 - Define requirements
 
