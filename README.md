@@ -1,7 +1,7 @@
 # DIT
 Diploma of IT
 
-#### 6 Core Units
+## 6 Core Units
 #### BSBXTW401 Lead and facilitate a team
 #### ICTICT532 Apply IP, ethics and privacy policies in ICT environments
 #### BSBXCS402 Promote workplace cyber security awareness and best practices
@@ -9,7 +9,7 @@ Diploma of IT
 #### ICTICT517 Match ICT needs with the strategic direction of the organization
 #### ICTSAS527 Manage client problems
 
-#### 14 Electives Units
+## 14 Electives Units
 #### ICTICT523 Gather data to identify business requirements
 #### ICTSAD509 Produce ICT feasibility reports
 #### ICTSAS502 Establish and maintain client user liaison
