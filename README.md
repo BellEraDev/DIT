@@ -36,7 +36,7 @@
 
 ### 🧩 Elective Units (14)
 
-#### 1. ICTICT523 – Gather Data to Identify Business Requirements (https://drive.google.com/drive/folders/171YMFAGL-NPS2TpMyhFKT_ydO6sEGfyP?usp=sharing)
+#### 1. ICTICT523 – Gather Data to Identify Business Requirements
 - Collect and analyze business data
 - Define requirements
 
