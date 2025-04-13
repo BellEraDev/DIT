@@ -1,8 +1,8 @@
 # DIT
 Diploma of IT
 
-# 6 Core Units
-# BSBXTW401 Lead and facilitate a team
+#### 6 Core Units
+#### BSBXTW401 Lead and facilitate a team
 * Plan team goals, roles, and communication
 * Coach and mentor members
 * Monitor and improve team performance
